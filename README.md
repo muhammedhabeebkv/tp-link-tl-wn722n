@@ -74,7 +74,7 @@ sudo reboot
 sudo ifconfig wlan0 down
 ```
 ```sh
-sudo airmong-ng check kill
+sudo airmon-ng check kill
 ```
 ```sh
 sudo iwconfig wlan0 mode Monitor
